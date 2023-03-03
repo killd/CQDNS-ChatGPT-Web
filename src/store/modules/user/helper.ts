@@ -15,7 +15,7 @@ export interface UserState {
 export function defaultSetting(): UserState {
   return {
     userInfo: {
-      avatar: 'https://raw.githubusercontent.com/Chanzhaoyu/chatgpt-web/main/src/assets/avatar.jpg',
+      avatar: 'http://cqdns.xyz:10084/wp-content/uploads/2023/02/cropped-cropped-CQDNS-1-1.png',
       name: 'CQDNS',
       description: 'Star on <a href="https://github.com/killd/CQDNS-ChatGPT-Web" class="text-blue-500" target="_blank" >Github</a>',
     },
