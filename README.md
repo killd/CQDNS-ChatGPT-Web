@@ -268,4 +268,4 @@ A: `vscode` 请安装项目推荐插件，或手动安装 `Eslint` 插件。
 
 
 ## License
-MIT © [ChenZhaoYu](./license)
+MIT © [ChenZhaoYu][CQDNS](./license)
